@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\SAKANASUSHI\Users\Public\Documents\|C:\Users\Shaklain\Desktop\R\|\\SAKANASUSHI\Public\Documents\|C:\Users\Shaklain\AppData\Roaming\Microsoft\Windows\Network Shortcuts\Public Documents\|C:\Users\Shaklain\Desktop\WebSite\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

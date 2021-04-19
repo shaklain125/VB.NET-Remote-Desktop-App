@@ -1,0 +1,56 @@
+C:\Users\Shaklain\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Shaklain\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Shaklain\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Shaklain\Desktop\Client\Client\bin\Debug\Client.xml
+C:\Users\Shaklain\Desktop\Client\Client\obj\Debug\Client.ClientSystem.resources
+C:\Users\Shaklain\Desktop\Client\Client\obj\Debug\Client.Resources.resources
+C:\Users\Shaklain\Desktop\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\Shaklain\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Shaklain\Desktop\Client\Client\obj\Debug\Client.xml
+C:\Users\Shaklain\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\PortsForwardingService.jar
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\RDCServiceOn.exe
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\Client.exe.config
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\Client.exe.manifest
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\Client.application
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\Client.exe
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\Client.pdb
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\bin\Debug\Client.xml
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.vbprojResolveAssemblyReference.cache
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ChangeEmail.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ChangeName.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ChangePass.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientJobs.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientQ1.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientQ2.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientQ3.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientSettings.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientSign_up.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ClientSystem.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.CloseNotify.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.Debug.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ForgotPassword.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.LiveChatBackgroundWorker.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.LiveChatFrm.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.LogIn.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.Resources.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.Notification.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.Overview.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.PreventSignUpUC.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.RemoveJobScreen.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.ServerFrm.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.WaitingForReply.resources
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.exe.manifest
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.application
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.exe
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.xml
+C:\Users\Shaklain\Desktop\Sch16\A Level Computing Project\Project\ClientApp\Client\obj\Debug\Client.pdb
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\ClientApp\Client\bin\Debug\Client.exe.config
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\ClientApp\Client\obj\Debug\Client.exe
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\ClientApp\Client\obj\Debug\Client.xml
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\ClientApp\Client\obj\Debug\Client.pdb
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\ClientApp\Client\bin\Debug\Client.exe.config
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\ClientApp\Client\obj\Debug\Client.exe
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\ClientApp\Client\obj\Debug\Client.xml
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\ClientApp\Client\obj\Debug\Client.pdb

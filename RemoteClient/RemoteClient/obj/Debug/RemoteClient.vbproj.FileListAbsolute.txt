@@ -1,0 +1,113 @@
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\obj\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\bin\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Resources.resources
+C:\Users\Shaklain\Desktop\BackUp\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbproj.GenerateResource.Cache
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\ffmpeg32.exe
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\ffmpeg64.exe
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.manifest
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\RemoteClient.application
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbproj.ResolveComReference.cache
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.AddClient.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.AddStaff.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ClientScreen.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ClientsManagementUC.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.CloseNotify.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Computers.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Dashboard.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.DashboardPage.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.DbxSaveDialogue.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.FileTransferFrm.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.FTPSaveDialogue.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobInfoDetails.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobsCompleted.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobsDeclined.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobsPending.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.LiveChatUC.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.LoadingScreen.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Notification.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ScreenRecords.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.SendMailFrm.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Server.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Resources.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.StaffManagementUC.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.StaffSignUp.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.TechSettings.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.TechSettingsFrmDlg.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.VideoPlayer.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.WelcomeScreen.resources
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbproj.GenerateResource.Cache
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe.manifest
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.application
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\Users\Shaklain\Desktop\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbprojResolveAssemblyReference.cache
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbproj.ResolveComReference.cache
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\ffmpeg32.exe
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\ffmpeg64.exe
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.manifest
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.application
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbprojResolveAssemblyReference.cache
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.AddClient.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.AddStaff.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ClientScreen.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ClientsManagementUC.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.CloseNotify.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Computers.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Dashboard.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.DashboardPage.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.DbxSaveDialogue.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.FileTransferFrm.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.FTPSaveDialogue.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobInfoDetails.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobsCompleted.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobsDeclined.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.JobsPending.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.LiveChatUC.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.LoadingScreen.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Notification.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ScreenRecords.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.SendMailFrm.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Server.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Resources.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.StaffManagementUC.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.StaffSignUp.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.TechSettings.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.TechSettingsFrmDlg.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.VideoPlayer.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.WelcomeScreen.resources
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbproj.GenerateResource.Cache
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe.manifest
+C:\Users\Shaklain\Desktop\Sch16\Computer Science\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.application
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.vbproj.ResolveComReference.cache
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.xml
+C:\Users\Shaklain\Desktop\Desktop Items\Sch16\Computer Science\Computer Projects\A Level Computing Project\Project\Main\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb

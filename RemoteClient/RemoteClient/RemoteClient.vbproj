@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C5D35A0-6187-43BB-9CDE-C25E1A62C48B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>RemoteClient.My.MyApplication</StartupObject>
+    <RootNamespace>RemoteClient</RootNamespace>
+    <AssemblyName>RemoteClient</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\SAKANASUSHI\Users\Public\Documents\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>RemoteClient.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>RemoteClient.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>69D372BCEBA6FB822055BB131B71C82D90D1E9EC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>RemoteClient_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dropbox.Api">
+      <HintPath>..\..\SRC - Dropbox Desktop V0.1 [SOOFTT.BLOGSPOT.COM]\Dropbox Desktop\Dropbox Desktop\bin\Release\Dropbox.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\SRC - Dropbox Desktop V0.1 [SOOFTT.BLOGSPOT.COM]\Dropbox Desktop\Dropbox Desktop\bin\Release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddClient.Designer.vb">
+      <DependentUpon>AddClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddClient.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddStaff.Designer.vb">
+      <DependentUpon>AddStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddStaff.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientScreen.Designer.vb">
+      <DependentUpon>ClientScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClientScreen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientsManagementUC.Designer.vb">
+      <DependentUpon>ClientsManagementUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClientsManagementUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClipboardAsync.vb" />
+    <Compile Include="CloseNotify.Designer.vb">
+      <DependentUpon>CloseNotify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CloseNotify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Computers.Designer.vb">
+      <DependentUpon>Computers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Computers.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Connection.vb" />
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardPage.Designer.vb">
+      <DependentUpon>DashboardPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardPage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DbxSaveDialogue.Designer.vb">
+      <DependentUpon>DbxSaveDialogue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DbxSaveDialogue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DropBoxManager.vb" />
+    <Compile Include="FileTransferFrm.Designer.vb">
+      <DependentUpon>FileTransferFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FileTransferFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FTPSaveDialogue.designer.vb">
+      <DependentUpon>FTPSaveDialogue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FTPSaveDialogue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobInfoDetails.Designer.vb">
+      <DependentUpon>JobInfoDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JobInfoDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobsCompleted.Designer.vb">
+      <DependentUpon>JobsCompleted.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JobsCompleted.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobsDeclined.Designer.vb">
+      <DependentUpon>JobsDeclined.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JobsDeclined.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JobsPending.Designer.vb">
+      <DependentUpon>JobsPending.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JobsPending.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LiveChatUC.Designer.vb">
+      <DependentUpon>LiveChatUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LiveChatUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LoadingScreen.Designer.vb">
+      <DependentUpon>LoadingScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailSender.vb" />
+    <Compile Include="MySQLStaffConnection.vb" />
+    <Compile Include="ScreenReadAndDecrypt.vb" />
+    <Compile Include="MaterialFlatButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Notification.Designer.vb">
+      <DependentUpon>Notification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Notification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScreenRecorder.vb" />
+    <Compile Include="ScreenRecords.Designer.vb">
+      <DependentUpon>ScreenRecords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScreenRecords.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SendCommands.vb" />
+    <Compile Include="SendMailFrm.Designer.vb">
+      <DependentUpon>SendMailFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SendMailFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Server.Designer.vb">
+      <DependentUpon>Server.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Server.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helper.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="FTPFileManager.vb" />
+    <Compile Include="SignUpCheck.vb" />
+    <Compile Include="SignUpFocusHandlers.vb" />
+    <Compile Include="SignUpKeysHandlers.vb" />
+    <Compile Include="StaffManagementUC.Designer.vb">
+      <DependentUpon>StaffManagementUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffManagementUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StaffSignUp.Designer.vb">
+      <DependentUpon>StaffSignUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffSignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechSettings.Designer.vb">
+      <DependentUpon>TechSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TechSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TechSettingsFrmDlg.Designer.vb">
+      <DependentUpon>TechSettingsFrmDlg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TechSettingsFrmDlg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VideoPlayer.Designer.vb">
+      <DependentUpon>VideoPlayer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VideoPlayer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeScreen.Designer.vb">
+      <DependentUpon>WelcomeScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomeScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddClient.resx">
+      <DependentUpon>AddClient.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStaff.resx">
+      <DependentUpon>AddStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientScreen.resx">
+      <DependentUpon>ClientScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientsManagementUC.resx">
+      <DependentUpon>ClientsManagementUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseNotify.resx">
+      <DependentUpon>CloseNotify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Computers.resx">
+      <DependentUpon>Computers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardPage.resx">
+      <DependentUpon>DashboardPage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DbxSaveDialogue.resx">
+      <DependentUpon>DbxSaveDialogue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileTransferFrm.resx">
+      <DependentUpon>FileTransferFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FTPSaveDialogue.resx">
+      <DependentUpon>FTPSaveDialogue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobInfoDetails.resx">
+      <DependentUpon>JobInfoDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobsCompleted.resx">
+      <DependentUpon>JobsCompleted.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobsDeclined.resx">
+      <DependentUpon>JobsDeclined.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobsPending.resx">
+      <DependentUpon>JobsPending.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LiveChatUC.resx">
+      <DependentUpon>LiveChatUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingScreen.resx">
+      <DependentUpon>LoadingScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notification.resx">
+      <DependentUpon>Notification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScreenRecords.resx">
+      <DependentUpon>ScreenRecords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendMailFrm.resx">
+      <DependentUpon>SendMailFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Server.resx">
+      <DependentUpon>Server.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffManagementUC.resx">
+      <DependentUpon>StaffManagementUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffSignUp.resx">
+      <DependentUpon>StaffSignUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechSettings.resx">
+      <DependentUpon>TechSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechSettingsFrmDlg.resx">
+      <DependentUpon>TechSettingsFrmDlg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VideoPlayer.resx">
+      <DependentUpon>VideoPlayer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeScreen.resx">
+      <DependentUpon>WelcomeScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RepairSymbol.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RepairSymbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="AxInterop.WMPLib">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Dropbox.Api">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ffmpeg32.exe">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="ffmpeg64.exe">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Interop.WMPLib">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="MySql.Data">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Newtonsoft.Json">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatMsgpb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScreenRBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TransparentBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CompIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ffmpeg32.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ffmpeg64.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
